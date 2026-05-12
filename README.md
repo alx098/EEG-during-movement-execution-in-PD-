@@ -1,1 +1,1 @@
-# EEG-during-movement-execution-and-inhibition-in-Parkinson-s-disease-Evaluation
+# EEG HC v PD and Neuog GPT classification
